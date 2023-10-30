@@ -1,4 +1,4 @@
-<h1 align="center"> Clasificación de la producción de Dark Photons en el experimento ATLAS utilizando machine learning.  <\h1>
+<h1 align="center"> Clasificación de la producción de Dark Photons en el experimento ATLAS utilizando machine learning.  </h1>
 
 Este repositorio contiene el trabajo de tésis de pregrado, donde se buscan encontrar modelos de ML que permitan separar VBF de ggF sin aplicar cortes restrictivos.  
 
