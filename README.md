@@ -4,4 +4,4 @@ Este repositorio contiene el trabajo de tésis de pregrado, donde se buscan enco
 
 ## Archivos 
 [analisis.ipynb](analisis.py) contiene la separación de VBF con respecto de ggF aplicando los cortes tradicionales. Estos son MET > 225 GeV y mjj > 1 TeV  
-[ml.ipynb](ml.ipynb) contiene el trabajo de ML donde se aplica XGBOOST Classifer para separar ggF de VBF.
+[ml_refactorizado.ipynb](ml_refactorizado.ipynb) contiene el trabajo de ML donde se aplica XGBOOST Classifer para separar ggF de VBF.
