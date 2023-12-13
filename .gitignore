@@ -18,3 +18,7 @@ Samples/frvz_vbf_500764_02-00.root
 __pycache__/util.cpython-39.pyc
 gridsearchCV_xgbCLass_11_oct.pkl
 config.yaml
+ML_functions.py
+gridsearch.ipynb
+ml refactorizado - copia.ipynb
+ml.ipynb
